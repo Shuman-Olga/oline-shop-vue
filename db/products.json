@@ -1,0 +1,76 @@
+{
+    "products": [
+{
+    "id_product": 111,
+    "image":"Layer_2.png",
+    "product_name": "T-shirt 1",
+    "discription":"Lorem",
+    "price": 1600,
+    "category":"Мужчины",
+    "available": true
+},
+{
+    "id_product": 112,
+    "image":"Layer_3.png",
+    "product_name": "T-shirt 2",
+    "discription":"Lorem",
+    "price": 3000,
+    "category":"Женщины",
+    "available": true
+},
+{
+    "id_product": 113,
+    "image":"Layer_4.png",
+    "product_name": "T-shirt 3",
+    "discription":"Lorem",
+    "price": 4600,
+    "category":"Мужчины",
+    "available": true
+},
+{
+    "id_product": 114,
+    "image":"Layer_5.png",
+    "product_name": "T-shirt 4",
+    "discription":"Lorem",
+    "price": 1200,
+    "category":"Женщины",
+    "available": false
+},
+{
+    "id_product": 115,
+    "image":"Layer_6.png",
+    "product_name": "T-shirt 5",
+    "discription":"Lorem",
+    "price": 5700,
+    "category":"Женщины",
+    "available": true
+},
+{
+    "id_product": 116,
+    "image":"Layer_7.png",
+    "product_name": "T-shirt 6",
+    "discription":"Lorem",
+    "price": 9200,
+    "category":"Мужчины",
+    "available": true
+},
+{
+    "id_product": 117,
+    "image":"Layer_4.png",
+    "product_name": "T-shirt 7",
+    "discription":"Lorem",
+    "price": 4300,
+    "category":"Мужчины",
+    "available": true
+},
+{
+    "id_product": 118,
+    "image":"Layer_4.png",
+    "product_name": "T-shirt 8",
+    "discription":"Lorem",
+    "price": 6000,
+    "category":"Мужчины",
+    "available": true
+}
+]
+}
