@@ -1,4 +1,6 @@
 # online_shop
+Онлайн магазин 
+Vue js
 
 ## Project setup
 ```
